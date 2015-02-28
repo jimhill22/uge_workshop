@@ -1,3 +1,7 @@
     1  cd
     2  pwd
     3  history > moving_around.txt
+
+    some modifications
+    add notes
+    more changes
